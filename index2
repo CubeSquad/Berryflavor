@@ -241,7 +241,7 @@
             <!--END WHAT IS APPSTORM ********************************************************************************-->
 
             <!--FEATURES ********************************************************************************************-->
-            <section id="features" class="ts-block"  data-bg-size="contain" data-bg-position="left" data-bg-repeat="no-repeat">
+            <section id="features" class="ts-block" data-bg-image="assets/img/bg-blurred-shape-02.png" data-bg-size="contain" data-bg-position="left" data-bg-repeat="no-repeat">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-7 col-xl-7 text-center">
