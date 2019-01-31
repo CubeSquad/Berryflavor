@@ -1,5 +1,0 @@
-<div class="container">
-  <span class="txt anim-text-flow">Lights will guide you home...</span>
-</div>
-
-<a target="_blank" href="https://twitter.com/hendrysadrak">@hendrysadrak</a>
