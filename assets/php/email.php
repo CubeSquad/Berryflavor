@@ -1,7 +1,7 @@
 <?php
 mb_internal_encoding("UTF-8");
 
-$to = 'info@cubesquad.org';
+$to = 'jquiroz@cubesquad.org';
 $subject = 'Mensaje en la Web';
 
 $name = "";
